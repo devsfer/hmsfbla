@@ -7,5 +7,5 @@
   
   <h4> Contact Me </h4>
 <button><a href="mailto:kelvin.orduna25@1hsd.org">Education Email</a></button>
-<button><a href="mailto:kelvin@kelvinorduna.com"Personal Email</a></button>
+<button><a href="mailto:kelvin@kelvinorduna.com">Personal Email</a></button>
 </html>
