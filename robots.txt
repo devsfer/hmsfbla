@@ -1,6 +1,6 @@
 #robots.txt for hmsfbla.1hsd.org
 
 User-agent: *
-Disallow: /assets/uploads/
+Disallow: /assets/
 
 sitemap: hmsfbla.1hsd.org/sitemap.xml
